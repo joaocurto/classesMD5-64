@@ -43,6 +43,12 @@
       "skillPath": "skills/memory-leak-debugging/SKILL.md",
       "computedHash": "a43e2037aecc34dcd87c97e26ac306e66b9249676802197bff1316ba84c1a8c7"
     },
+    "shadcn-ui-mcp": {
+      "source": "Jpisnice/shadcn-ui-mcp-server",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn-ui-mcp/SKILL.md",
+      "computedHash": "7222dd351f28eaf3ac6c54d511c0faca6176ce0c2dad1e1c501c8e9fc1744030"
+    },
     "troubleshooting": {
       "source": "ChromeDevTools/chrome-devtools-mcp",
       "sourceType": "github",
